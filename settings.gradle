@@ -1,0 +1,6 @@
+rootProject.name = 'ijetty-parent'
+include ':i-jetty-server'
+include ':i-jetty'
+
+project(':i-jetty-server').projectDir = "$rootDir/i-jetty-server" as File
+project(':i-jetty').projectDir = "$rootDir/i-jetty-ui" as File

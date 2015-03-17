@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="couchbase-lite-android-0.0.0-451">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/i-jetty-ui/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/0.0.0-451/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/i-jetty-ui/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/0.0.0-451/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

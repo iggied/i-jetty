@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/jenkins/jenkins/workspace/build_cblite_android_master-enterprise/app-under-test/android/couchbase-lite-android-liteserv/libraries/couchbase-lite-android/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">My Module</string>
+
+</resources>

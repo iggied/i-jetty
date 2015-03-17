@@ -1,0 +1,6 @@
+allprojects  {
+  apply plugin: 'maven'
+
+  group = 'org.mortbay.ijetty'
+version = '3.2-SNAPSHOT'
+}

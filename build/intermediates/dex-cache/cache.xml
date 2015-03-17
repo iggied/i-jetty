@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.2/95400a7922ce75383866eb72f6ef4a7897923945/jackson-mapper-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="95400a7922ce75383866eb72f6ef4a7897923945">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jackson-mapper-asl-1.9.2-dd05d3b4a0813620250c3dcdcccba6cf5dc0ac80.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/development/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/support-v4-19.0.0-4ccac710d7d756635bf0b1f148cc12f4b66cccbc.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/7.6.0.RC4/75fe3f4ba401e52d6bdb9a9c2e3e1641420716bf/jetty-servlet-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="75fe3f4ba401e52d6bdb9a9c2e3e1641420716bf">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-servlet-7.6.0.RC4-8e23135d990ef40390b9a1ff38b39a40f3bcac25.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/7.6.0.RC4/92a45068a2690fae0ea51bdd2d44b077753da579/jetty-client-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="92a45068a2690fae0ea51bdd2d44b077753da579">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-client-7.6.0.RC4-eb1b0f208ae092e06aa253e664434de5ae570e44.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/7.6.0.RC4/6309f02f2cde8ead28ff25bee49fffcaed6608ae/jetty-server-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6309f02f2cde8ead28ff25bee49fffcaed6608ae">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-server-7.6.0.RC4-db021c2f5668a453fe9307855dd0217df313265a.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/7.6.0.RC4/cc802e999d3f53fe64259d6129874c9a632cf5fd/jetty-security-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cc802e999d3f53fe64259d6129874c9a632cf5fd">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-security-7.6.0.RC4-9b0c086bb06cc3f6c1149b65f66ef976dbc24008.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/7.6.0.RC4/5f8f19f74e7d43842700242add1db231cfbbb498/jetty-http-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5f8f19f74e7d43842700242add1db231cfbbb498">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-http-7.6.0.RC4-5f9801f796329962b6a7c70fd33303215dcf2e36.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/0.0.0-451/b882384b1fe5653f023da7b8fc190fb516df2946/couchbase-lite-java-core-0.0.0-451.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b882384b1fe5653f023da7b8fc190fb516df2946">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/couchbase-lite-java-core-0.0.0-451-7cbd4f9e3a350957b112d4b61de9568ed213eb81.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-deploy/7.6.0.RC4/aca340a599a81a3529070ae6bd02c8cc79c4c990/jetty-deploy-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="aca340a599a81a3529070ae6bd02c8cc79c4c990">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-deploy-7.6.0.RC4-276c3133bcd00d91a1b3234bbc6a05cc2a510d34.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.2/8493982bba1727106d767034bd0d8e77bc1931a9/jackson-core-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8493982bba1727106d767034bd0d8e77bc1931a9">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jackson-core-asl-1.9.2-6a5520ecfed18873a663e5cacaec8035be82e8c8.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/0.0.0-451/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7a1845dd5e21e0f3691ea56929797f099c1f3386">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/classes-98fffdf3ce50583514ce2cfb98cc7628d38db748.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/7.6.0.RC4/465554f1076c5d5b4564b517f73054f43e54d8ab/jetty-webapp-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="465554f1076c5d5b4564b517f73054f43e54d8ab">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-webapp-7.6.0.RC4-93c4234b645675a4461531d3ce2d32a60d4b2c01.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/7.6.0.RC4/fe7b62f5bdc07ca6e22646f9c3e71ffca1704af6/jetty-util-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fe7b62f5bdc07ca6e22646f9c3e71ffca1704af6">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-util-7.6.0.RC4-74e61f9b78051bbbc8fa291ee039e09fede9747a.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/7.6.0.RC4/52ecd1320531ef9fd485c503c04e1557b67f5576/jetty-continuation-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="52ecd1320531ef9fd485c503c04e1557b67f5576">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-continuation-7.6.0.RC4-210a182e3ee78c9ab6bddc28f9134254944343c4.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/repos/i-jetty/i-jetty-server/build/libs/i-jetty-server-3.2-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="752b04ce55ab15b33210c71ec234b8c73cfc63a2">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/i-jetty-server-3.2-SNAPSHOT-fc77f700e88059ef12c3eb6c929803587bfbd338.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.5/5959582d97d8b61f4d154ca9e495aafd16726e34/servlet-api-2.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5959582d97d8b61f4d154ca9e495aafd16726e34">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/servlet-api-2.5-82e627dde55e33679e53c6f711d2244d397e58b3.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/7.6.0.RC4/f80ddee518aadfafedce6be73fac43ebb86a6153/jetty-io-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f80ddee518aadfafedce6be73fac43ebb86a6153">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-io-7.6.0.RC4-d75fd4f851d27e60d5503ac005dde0246b9573bb.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/7.6.0.RC4/89d6eb3b002cc6f15ad895467d927787af6dc929/jetty-xml-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="89d6eb3b002cc6f15ad895467d927787af6dc929">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-xml-7.6.0.RC4-51b99d62776b43e3137e2311b34a460b52a63cc6.jar" />
+    </item>
+
+</items>

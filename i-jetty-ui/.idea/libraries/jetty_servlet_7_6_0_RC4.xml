@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jetty-servlet-7.6.0.RC4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/7.6.0.RC4/75fe3f4ba401e52d6bdb9a9c2e3e1641420716bf/jetty-servlet-7.6.0.RC4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/7.6.0.RC4/d0c03b7d009abe23e8dbda4aa8f21a7f60210df1/jetty-servlet-7.6.0.RC4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

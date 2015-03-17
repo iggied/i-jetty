@@ -1,0 +1,82 @@
+group = 'org.mortbay.ijetty'
+version = '3.2-SNAPSHOT'
+description = 'I-Jetty :: Android Application'
+
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.1.0'
+    }
+}
+apply plugin: 'android'
+
+repositories {
+    mavenCentral()
+    maven {
+        url "http://files.couchbase.com/maven2/"
+    }
+    mavenLocal()
+}
+
+android {
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            res.srcDirs = ['res']
+            java.srcDirs += 'src/org/mortbay/ijetty'
+        }
+    }
+
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 19
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    // workaround for "duplicate files during packaging of APK" issue
+    // see https://groups.google.com/d/msg/adt-dev/bl5Rc4Szpzg/wC8cylTWuIEJ
+    packagingOptions {
+        exclude 'META-INF/ASL2.0'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFile getDefaultProguardFile('proguard-android-optimize.txt')
+        }
+    }
+    productFlavors {
+        defaultFlavor {
+            proguardFile 'proguard-rules.txt'
+            minSdkVersion 9
+            targetSdkVersion 19
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.0.0'
+    // By default, this depends on couchbase lite via the maven artifact
+    compile 'com.couchbase.lite:couchbase-lite-android:0.0.0-451'
+    compile 'javax.servlet:servlet-api:2.5'
+    compile 'org.eclipse.jetty:jetty-client:7.6.0.RC4'
+    compile project(':i-jetty-server')
+    compile('com.google.android:android:1.6_r2') {
+        /* This dependency was originally in the Maven provided scope, but the project was not of type war.
+        This behavior is not yet supported by Gradle, so this dependency has been converted to a compile dependency.
+        Please review and delete this closure when resolved. */
+    }
+}
