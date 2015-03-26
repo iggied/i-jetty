@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="couchbase-lite-java-listener-1.0.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/i-jetty-ui/lib/couchbase-lite-java-listener-1.0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

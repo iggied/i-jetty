@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="/Users/Ignatius/repos/i-jetty/i-jetty-ui/lib/couchbase-lite-java-listener-1.0.3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c94a7fdfa4b43a0ab76706b17707e62676ae0471">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/couchbase-lite-java-listener-1.0.3.1-a7db3e7bf3d43d2f85b5c00d6ddd1ab4f90e1073.jar" />
+    </item>
+    <item
         jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.2/95400a7922ce75383866eb72f6ef4a7897923945/jackson-mapper-asl-1.9.2.jar"
         jumboMode="false"
         revision="19.1.0"
@@ -42,6 +49,13 @@
         revision="19.1.0"
         sha1="cc802e999d3f53fe64259d6129874c9a632cf5fd">
         <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-security-7.6.0.RC4-9b0c086bb06cc3f6c1149b65f66ef976dbc24008.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/repos/i-jetty/i-jetty-ui/lib/webserver.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3139c2f41e5779ff17733648eb674a11dd5db0ac">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/webserver-3f548b219272d14489cf46407fb93765ac7b0d76.jar" />
     </item>
     <item
         jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/7.6.0.RC4/5f8f19f74e7d43842700242add1db231cfbbb498/jetty-http-7.6.0.RC4.jar"
@@ -103,7 +117,7 @@
         jar="/Users/Ignatius/repos/i-jetty/i-jetty-server/build/libs/i-jetty-server-3.2-SNAPSHOT.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="752b04ce55ab15b33210c71ec234b8c73cfc63a2">
+        sha1="e346d3cbf1ae33bb42e4e4ec7fc58604d5b1fea0">
         <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/i-jetty-server-3.2-SNAPSHOT-fc77f700e88059ef12c3eb6c929803587bfbd338.jar" />
     </item>
     <item

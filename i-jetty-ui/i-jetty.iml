@@ -108,13 +108,15 @@
     <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="jetty-continuation-7.6.0.RC4" level="project" />
+    <orderEntry type="library" exported="" name="couchbase-lite-java-listener-1.0.3.1" level="project" />
     <orderEntry type="library" exported="" name="jetty-deploy-7.6.0.RC4" level="project" />
     <orderEntry type="library" exported="" name="jetty-util-7.6.0.RC4" level="project" />
-    <orderEntry type="library" exported="" name="support-v4-19.0.0" level="project" />
     <orderEntry type="library" exported="" name="servlet-api-2.5" level="project" />
+    <orderEntry type="library" exported="" name="support-v4-19.0.0" level="project" />
     <orderEntry type="library" exported="" name="jetty-webapp-7.6.0.RC4" level="project" />
-    <orderEntry type="library" exported="" name="jetty-client-7.6.0.RC4" level="project" />
+    <orderEntry type="library" exported="" name="webserver" level="project" />
     <orderEntry type="library" exported="" name="jetty-security-7.6.0.RC4" level="project" />
+    <orderEntry type="library" exported="" name="jetty-client-7.6.0.RC4" level="project" />
     <orderEntry type="library" exported="" name="jackson-core-asl-1.9.2" level="project" />
     <orderEntry type="library" exported="" name="couchbase-lite-android-0.0.0-451" level="project" />
     <orderEntry type="library" exported="" name="jetty-xml-7.6.0.RC4" level="project" />
@@ -122,8 +124,8 @@
     <orderEntry type="library" exported="" name="jetty-servlet-7.6.0.RC4" level="project" />
     <orderEntry type="library" exported="" name="jetty-server-7.6.0.RC4" level="project" />
     <orderEntry type="library" exported="" name="jetty-io-7.6.0.RC4" level="project" />
-    <orderEntry type="library" exported="" name="couchbase-lite-java-core-0.0.0-451" level="project" />
     <orderEntry type="library" exported="" name="jackson-mapper-asl-1.9.2" level="project" />
+    <orderEntry type="library" exported="" name="couchbase-lite-java-core-0.0.0-451" level="project" />
     <orderEntry type="module" module-name="i-jetty-server" exported="" />
   </component>
 </module>
