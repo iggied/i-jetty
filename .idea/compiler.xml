@@ -17,7 +17,25 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
+      <profile default="false" name="Annotation profile for i-jetty-server" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="i-jetty-server" />
+      </profile>
+      <profile default="false" name="Annotation profile for i-jetty" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="i-jetty" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="i-jetty" target="1.5" />
+      <module name="i-jetty-server" target="1.5" />
+      <module name="ijetty-parent" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-

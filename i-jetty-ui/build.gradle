@@ -71,11 +71,12 @@ android {
 }
 
 dependencies {
+    compile(name: 'javalite-common-1.4.10', ext: 'jar')
     compile 'com.android.support:support-v4:19.0.0'
     // By default, this depends on couchbase lite via the maven artifact
-    compile 'com.couchbase.lite:couchbase-lite-android:0.0.0-451'
-    compile (name:'couchbase-lite-java-listener-1.0.3.1', ext:'jar')
-    compile (name:'webserver', ext:'jar')
+    compile 'com.couchbase.lite:couchbase-lite-android:1.0.3.1'
+    compile(name: 'couchbase-lite-java-listener-1.0.3.1', ext: 'jar')
+    compile(name: 'webserver', ext: 'jar')
     compile 'javax.servlet:servlet-api:2.5'
     compile 'org.eclipse.jetty:jetty-client:7.6.0.RC4'
     compile project(':i-jetty-server')

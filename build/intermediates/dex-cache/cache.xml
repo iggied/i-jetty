@@ -65,13 +65,6 @@
         <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-http-7.6.0.RC4-5f9801f796329962b6a7c70fd33303215dcf2e36.jar" />
     </item>
     <item
-        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/0.0.0-451/b882384b1fe5653f023da7b8fc190fb516df2946/couchbase-lite-java-core-0.0.0-451.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="b882384b1fe5653f023da7b8fc190fb516df2946">
-        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/couchbase-lite-java-core-0.0.0-451-7cbd4f9e3a350957b112d4b61de9568ed213eb81.jar" />
-    </item>
-    <item
         jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-deploy/7.6.0.RC4/aca340a599a81a3529070ae6bd02c8cc79c4c990/jetty-deploy-7.6.0.RC4.jar"
         jumboMode="false"
         revision="19.1.0"
@@ -84,13 +77,6 @@
         revision="19.1.0"
         sha1="8493982bba1727106d767034bd0d8e77bc1931a9">
         <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jackson-core-asl-1.9.2-6a5520ecfed18873a663e5cacaec8035be82e8c8.jar" />
-    </item>
-    <item
-        jar="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/0.0.0-451/classes.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="7a1845dd5e21e0f3691ea56929797f099c1f3386">
-        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/classes-98fffdf3ce50583514ce2cfb98cc7628d38db748.jar" />
     </item>
     <item
         jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/7.6.0.RC4/465554f1076c5d5b4564b517f73054f43e54d8ab/jetty-webapp-7.6.0.RC4.jar"
@@ -107,6 +93,13 @@
         <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-util-7.6.0.RC4-74e61f9b78051bbbc8fa291ee039e09fede9747a.jar" />
     </item>
     <item
+        jar="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/exploded-aar/com.couchbase.lite/couchbase-lite-android/1.0.3.1/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a2fa0cc9a91d6064857f3ecb6cc4d8415982b567">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/classes-6d48123477beeb72c2b71d8b2aba3a5b84f5daa2.jar" />
+    </item>
+    <item
         jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/7.6.0.RC4/52ecd1320531ef9fd485c503c04e1557b67f5576/jetty-continuation-7.6.0.RC4.jar"
         jumboMode="false"
         revision="19.1.0"
@@ -114,10 +107,31 @@
         <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/jetty-continuation-7.6.0.RC4-210a182e3ee78c9ab6bddc28f9134254944343c4.jar" />
     </item>
     <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/com.couchbase.lite/couchbase-lite-java-core/1.0.3.1/c96078de4bf2ec18e016e1453ef7a441b932ddca/couchbase-lite-java-core-1.0.3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c96078de4bf2ec18e016e1453ef7a441b932ddca">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/couchbase-lite-java-core-1.0.3.1-19a62d0c43d7e205d25a6bef51aa6fd2c24e7205.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/repos/i-jetty/i-jetty-ui/lib/javalite-common-1.4.10.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="dc532b703e3bb8c8b35f6fcb6b2f08a5dca8bf95">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/javalite-common-1.4.10-1813877784d14d6046ca308d635b55f9c54a199b.jar" />
+    </item>
+    <item
+        jar="/Users/Ignatius/.gradle/caches/modules-2/files-2.1/com.github.oxo42/stateless4j/2.4.0/128aca4ace585f0b42faa739d0b968a154debb7a/stateless4j-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="128aca4ace585f0b42faa739d0b968a154debb7a">
+        <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/stateless4j-2.4.0-13dabd39baa3ca0867280a68fce366e001a9668f.jar" />
+    </item>
+    <item
         jar="/Users/Ignatius/repos/i-jetty/i-jetty-server/build/libs/i-jetty-server-3.2-SNAPSHOT.jar"
         jumboMode="false"
         revision="19.1.0"
-        sha1="e346d3cbf1ae33bb42e4e4ec7fc58604d5b1fea0">
+        sha1="3ac22c3d72b53619f508fe598809008b0f717418">
         <dex dex="/Users/Ignatius/repos/i-jetty/i-jetty-ui/build/intermediates/pre-dexed/defaultFlavor/debug/i-jetty-server-3.2-SNAPSHOT-fc77f700e88059ef12c3eb6c929803587bfbd338.jar" />
     </item>
     <item
